@@ -4,7 +4,7 @@ from playsound import playsound;
 from simple_chalk import chalk;
 
 # Define chave de API e modelo
-API_KEY = "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"
+API_KEY = "MINHA_CHAVE_DE_API"
 openai.api_key = API_KEY
 model = "text-davinci-003"
 
